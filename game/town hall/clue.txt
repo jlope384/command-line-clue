@@ -1,0 +1,5 @@
+Investigation Update:
+
+Recent scratches on the floor lead towards the offices.
+
+Remember: Use 'cd "offices"' to follow this lead.
