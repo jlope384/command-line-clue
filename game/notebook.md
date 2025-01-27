@@ -13,4 +13,7 @@
 ## Notes
 *Use this space to record your findings and deductions...*
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+Location of the crime was the living room and the crime scene was untouched
+
+Besides the musician and the pain brush I only found the Police officer and a Fountain pen, I think the game might have glitched out
+
