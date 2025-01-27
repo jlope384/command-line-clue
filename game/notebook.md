@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Musician
+- [X] The Musician
 - [ ] The Clockmaker
 - [ ] The Artist
 
 ## Weapons
 - [ ] Garden Shears
 - [ ] Walking Stick
-- [ ] Paint Brush
+- [X] Paint Brush
 
 ## Notes
 *Use this space to record your findings and deductions...*
